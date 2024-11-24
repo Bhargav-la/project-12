@@ -1,0 +1,14 @@
+.class{
+    width: 200px;
+    background-color: yellow;
+    padding: 70px;
+    border: 7px solid goldenrod;
+    margin: 50px;
+    font-size: 40px;
+}
+img#flowerright{
+    float: right;
+}
+img#flowerleft{
+    float: left;
+}
